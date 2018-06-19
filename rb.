@@ -1,2 +1,5 @@
 # the way you make an array is []
 student_names = ["chloe","nasya","laurn","miya"
+puts student_names[0]
+#prints the entire array 
+puts 
